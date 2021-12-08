@@ -13,6 +13,8 @@ description: > # this means to ignore newlines until "baseurl:"
 location: Niterói, RJ, 2022
 date: 31 de Julho a 05 de Agosto de 2022 (CSBC)
 logo_path: ./assets/images/wbci-logo.png
+# logo generator
+# https://editor.freelogodesign.org/?companyName=III%20Workshop%20Brasileiro%20de%20Cidades%20Inteligentes&category=4
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/image0.jpg
