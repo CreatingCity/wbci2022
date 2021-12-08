@@ -1,0 +1,29 @@
+version: "3.7"
+
+networks:
+  frontend_http:
+    driver: bridge
+    
+services:
+  ruby-jekll:
+    build: ./
+    image: ruby-jekll
+    container_name: "ruby-jekll"
+    ports:
+      - 4000:4000
+    volumes:
+      - ./:/webpage
+    working_dir: /webpage
+    networks:
+      - frontend_http
+    healthcheck:
+      test:
+        - CMD
+        - bash
+        - '-c'
+        - exec 6<>/dev/tcp/127.0.0.1/4000
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s      
+    command: ./execBundleJekyllServe.sh

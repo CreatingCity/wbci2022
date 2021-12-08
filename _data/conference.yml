@@ -1,0 +1,127 @@
+full_title: III Workshop Brasileiro de Cidades Inteligentes (WBCI)
+short_title: III WBCI (2022)
+email: hotweb2017@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  O WBCI tem como objetivo atrair contribuições originais com
+  abordagem interdisciplinar, tanto no campo da tecnologia quanto nas
+  humanidades, com foco no desenvolvimento e emprego de sistemas
+  computacionais e sua relação com o macro tópico de cidades
+  inteligentes (e suas diversas variantes), se configurando como a
+  oportunidade ideal para reunir os membros da comunidade brasileira de
+  computação e de áreas sociais aplicadas que estudam os
+  desdobramentos do uso de tecnologias no contexto urbano.
+location: Niterói, RJ, 2022
+date: 31 de Julho a 05 de Agosto de 2022 (CSBC)
+logo_path: ./assets/images/logo2017.jpg
+slideshow:
+  - id: 0
+    image_path: ./assets/images/slideshow/image0.jpg
+    description: San Jose night scene
+    photographer_name: Mike Boening
+    photographer_link: https://www.flickr.com/photos/memoriesbymike/
+    active: True
+  - id: 1
+    image_path: ./assets/images/slideshow/image1.jpg
+    description: San Jose Museum of Art
+    photographer_name: Bryan Nabong
+    photographer_link: https://www.flickr.com/photos/bongarang/
+  - id: 2
+    image_path: ./assets/images/slideshow/image2.jpg
+    description: San Jose State University
+    photographer_name: David Sawyer
+    photographer_link: https://www.flickr.com/photos/18702768@N04/
+  - id: 3
+    image_path: ./assets/images/slideshow/image3.jpg
+    description: Cathedral Basilica of St. Joseph
+    photographer_name: Patricia Montes Gregory
+    photographer_link: https://www.flickr.com/photos/32159045@N02/
+  - id: 4
+    image_path: ./assets/images/slideshow/image4.jpg
+    description: Winchester Mystery House
+    photographer_name: Pomax
+    photographer_link: https://www.flickr.com/photos/pomax/
+  - id: 5
+    image_path: ./assets/images/slideshow/image5.jpg
+    description: Rose Garden Branch Library
+    photographer_name: John Menard
+    photographer_link: https://www.flickr.com/photos/jmenard48/
+navbar:
+  - id: 0
+    label: Home
+    path: /
+    visible: True
+  - id: 1
+    label: Organização
+    path: /organization.html
+    visible: True
+  - id: 2
+    label: Chamada de Trabalhos
+    path: /cfp.html
+    visible: True
+  - id: 3
+    label: Submissão
+    path: /submission.html
+    visible: True
+  - id: 4
+    label: Programação
+    path: /program.html
+    visible: True
+  - id: 5
+    label: Informações Gerais
+    path: /venue.html
+    visible: True
+  - id: 6
+    label: Inscrições
+    path: /registration.html
+    visible: True
+deadlines:
+  - date: 2022-3-15
+    #timezone: 9PM PDT
+    text: Prazo de Submissão
+    pass_due: False
+  - date: 2022-5-6
+    text: Divulgação de Aceites
+    pass_due: False
+  - date: 2022-5-20
+    text: Versão Final
+    pass_due: False
+  - #date: 2022-7-31
+    text: Workshop (31/07 a 05/08 - CSBC 2022)
+    pass_due: False
+news:
+  - date: 2021-12-08
+    text: Website online
+sponsors:
+  - name: ACM
+    logo_path: ./assets/images/sponsors/acm-logo.png
+  - name: IEEE
+    logo_path: ./assets/images/sponsors/ieee-logo.gif
+social_media:
+  facebook_link: https://www.facebook.com/hotwebseries/
+  twitter_link:
+steering_committees:
+  - name: Igor Machado Coelho
+    org: Universidade Federal Fluminense (UFF)
+    homepage: https://igormcoelho.github.io/
+  - name: Luiz Satoru Ochi
+    org: Universidade Federal Fluminense (UFF)
+    homepage: http://www.ic.uff.br/~satoru/
+  - name: Paulo Fernando Ferreira Rosa
+    org: Instituto Militar de Engenharia (IME)
+    homepage: rpaulo@ime.eb.br 
+program_chair:
+  - name: Thays Oliveira
+    org:  Pesquisadora Creating.City
+    homepage: https://creating.city
+  - name: Vitor Nazário Coelho
+    org: Pesquisador Creating.City
+    homepage: https://vncoelho.github.io/
+technical_program_committees:
+  - name: A ser anunciado
+    #org: Boston University (USA)
+    #homepage: http://www.bu.edu/cs/azer-bestavros/
+webmaster:
+  - name: Equipe Creating.City
+    org: Creating.City
+    homepage: https://creating.city
+
