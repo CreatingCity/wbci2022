@@ -88,6 +88,7 @@ deadlines:
     text: Versão Final
     pass_due: False
   - #date: 2022-7-31
+    date: 2022
     text: Workshop (31/07 a 05/08 - CSBC 2022)
     pass_due: False
 news:
