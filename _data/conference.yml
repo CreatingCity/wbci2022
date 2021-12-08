@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   desdobramentos do uso de tecnologias no contexto urbano.
 location: Niterói, RJ, 2022
 date: 31 de Julho a 05 de Agosto de 2022 (CSBC)
-logo_path: ./assets/images/logo2017.jpg
+logo_path: ./assets/images/wbci-logo.png
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/image0.jpg
