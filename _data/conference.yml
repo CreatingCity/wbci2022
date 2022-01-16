@@ -18,35 +18,30 @@ logo_path: ./assets/images/wbci-logo.png
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/image0.jpg
-    description: San Jose night scene
-    photographer_name: Mike Boening
-    photographer_link: https://www.flickr.com/photos/memoriesbymike/
+    description: Vista Noturna do Parque da Cidade, Niterói-RJ
+    photographer_name: Claudney Neves
+    photographer_link: https://commons.wikimedia.org/wiki/File:Panor%C3%A2mica_do_Parque_da_Cidade.jpg
     active: True
   - id: 1
     image_path: ./assets/images/slideshow/image1.jpg
-    description: San Jose Museum of Art
-    photographer_name: Bryan Nabong
-    photographer_link: https://www.flickr.com/photos/bongarang/
+    description: Museu de Arte Contemporânea, Niterói-RJ
+    photographer_name: Creative Commons
+    photographer_link: https://commons.wikimedia.org
   - id: 2
     image_path: ./assets/images/slideshow/image2.jpg
-    description: San Jose State University
-    photographer_name: David Sawyer
-    photographer_link: https://www.flickr.com/photos/18702768@N04/
+    description: Instituto de Computação da Universidade Federal Fluminense IC-UFF
+    photographer_name: Creative Commons
+    photographer_link: https://commons.wikimedia.org
   - id: 3
     image_path: ./assets/images/slideshow/image3.jpg
-    description: Cathedral Basilica of St. Joseph
-    photographer_name: Patricia Montes Gregory
-    photographer_link: https://www.flickr.com/photos/32159045@N02/
+    description: Vista do Parque da Cidade, Niterói-RJ
+    photographer_name: Victor Tarcitano
+    photographer_link: https://commons.wikimedia.org/wiki/File:Vista-do-rj_parque-da-cidade-niteroi-01.jpg
   - id: 4
     image_path: ./assets/images/slideshow/image4.jpg
-    description: Winchester Mystery House
-    photographer_name: Pomax
-    photographer_link: https://www.flickr.com/photos/pomax/
-  - id: 5
-    image_path: ./assets/images/slideshow/image5.jpg
-    description: Rose Garden Branch Library
-    photographer_name: John Menard
-    photographer_link: https://www.flickr.com/photos/jmenard48/
+    description: Forte do Imbuí, Niterói-RJ
+    photographer_name: Jfernandofc
+    photographer_link: https://commons.wikimedia.org/wiki/File:Forte_do_Imbu%C3%AD,_Niteroi,_Rio_de_Janeiro.jpg
 navbar:
   - id: 0
     label: Home
