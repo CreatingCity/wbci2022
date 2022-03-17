@@ -93,6 +93,10 @@ deadlines:
 news:
   - date: 2021-12-08
     text: Website online
+  - date: 2022-01-15
+    text: TPC members invited
+  - date: 2022-03-10
+    text: Deadline changed to March 31
 sponsors:
   - name: SBC
     logo_path: ./assets/images/sponsors/logo-sbc.png
