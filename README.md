@@ -2,6 +2,8 @@
 
 An academic conference website template built using Jekyll.
 
+Run: `bundle exec jekyll serve`
+
 ## Features
 
 - A data file (`_data/conference.yml`) to configure all conference information.

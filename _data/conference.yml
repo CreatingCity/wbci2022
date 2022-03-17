@@ -75,7 +75,11 @@ deadlines:
   - date: 2022-3-15
     #timezone: 9PM PDT
     text: Prazo de Submissão
-    pass_due: False
+    pass_due: True
+  - date: 2022-3-31
+    #timezone: 9PM PDT
+    text: Prazo de Submissão (FINAL)
+    pass_due: True
   - date: 2022-5-6
     text: Divulgação de Aceites
     pass_due: False
