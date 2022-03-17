@@ -113,9 +113,102 @@ program_chair:
     org: Pesquisador Creating.City
     homepage: https://vncoelho.github.io/
 technical_program_committees:
-  - name: A ser anunciado
-    #org: Boston University (USA)
-    #homepage: http://www.bu.edu/cs/azer-bestavros/
+    - name: Akebo Yamakami
+      org: UNICAMP
+    - name: Alexandre Evsukoff
+      org: COPPE/UFRJ
+    - name: Alfredo Goldman
+      org: IME - USP
+    - name: Alvaro Coutinho
+      org: High Performance Computing Center - COPPE/UFRJ
+    - name: André Ponce de Leon F de Carvalho
+      org: ICMC-USP/S.Carlos
+    - name: Antonio Augusto Frohlich
+      org: Universidade Federal de Santa Catarina
+    - name: Augusto Neto
+      org: Universidade Federal do Rio Grande do Norte - UFRN
+    - name: Bernadette Loscio
+      org: Universidade Federal de Pernambuco
+    - name: Carlos da Silva
+      org: Sheffield Hallam University
+    - name: Daniel Araújo
+      org: Federal University of Rio Grande do Norte
+    - name: Daniel Menasché
+      org: Universidade Federal do Rio de Janeiro
+    - name: Danielo G. Gomes
+      org: Universidade Federal do Ceará (UFC)
+    - name: Debora Saade
+      org: UFF
+    - name: Dorgival Guedes
+      org: UFMG
+    - name: Edmundo Madeira
+      org: UNICAMP
+    - name: Everton Cavalcante
+      org: UFRN - Universidade Federal do Rio Grande do Norte
+    - name: Fabio Costa
+      org: UFG
+    - name: Fabio Kon
+      org: IME - USP
+    - name: Fabio Verdi
+      org: Universidade Federal de São Carlos
+    - name: Flavia Delicato
+      org: UFF
+    - name: Flavia Pisani
+      org: University of Campinas
+    - name: Frederico Lopes
+      org: UFRN
+    - name: Guilherme Travassos
+      org: COPPE/UFRJ
+    - name: Helena Ramalhinho Lourenço
+      org: Universitat Pompeu Fabra
+    - name: Jair Leite
+      org: Universidade Federal do Rio Grande do Norte
+    - name: Jó Ueyama
+      org: Universidade de São Paulo
+    - name: João Marcos Meirelles da Silva
+      org: UFF
+    - name: Jorge Barbosa
+      org: Unisinos
+    - name: José Viterbo
+      org: UFF
+    - name: Jose-Marcos Nogueira
+      org: Universidade Federal de Minas Gerais
+    - name: Kelly Braghetto
+      org: IME/USP
+    - name: Kiev Gama
+      org: CIn-UFPE
+    - name: Leandro Villas
+      org: UNICAMP
+    - name: Luis Henrique Costa
+      org: Universidade Federal do Rio de Janeiro
+    - name: Luiz Fernando Bittencourt
+      org: UNICAMP
+    - name: Luiza Amalia Pinto Cantão
+      org: UNESP
+    - name: Marcio Maia
+      org: Federal University of Ceara
+    - name: Marley M. B. R. Vellasco
+      org: PUC-Rio
+    - name: Miquel Oliver
+      org: Department of Information and Communication Technologies, Universitat Pompeu Fabra
+    - name: Nélio Domingues Pizzolato
+      org: UCP
+    - name: Nelio Cacho
+      org: UFRN
+    - name: Philippe Michelon
+      org: Université d´Avignon
+    - name: Priscila Berbert Rampazzo
+      org: Universidade de Campinas
+    - name: Priscila M V Lima
+      org: Universidade Federal do Rio de Janeiro
+    - name: Ricardo Coelho Silva
+      org: Universidade Federal de Ceará
+    - name: Tales Nogueira
+      org: Unilab
+    - name: Thais Vasconcelos Batista
+      org: UFRN
+    - name: Wesley Shirabayashi
+      org: Universidade Estadual de Maringá
 webmaster:
   - name: Equipe Creating.City
     org: Creating.City
