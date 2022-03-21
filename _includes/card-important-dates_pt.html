@@ -1,6 +1,6 @@
 <div class="card">
     <div class="card-header text-white bg-inverse">
-        <i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Important Dates</strong>
+        <i class="fa fa-calendar-o mr-3" aria-hidden="true"></i><strong>Datas Importantes</strong>
     </div>
     <div class="card-block bg-faded">
         <ul class="list-group list-group-flush">
@@ -11,11 +11,11 @@
                 {% if deadline.pass_due %}
                 <del>
                     {% endif %}
-                    <p><strong>{{ deadline.text }}:</strong>
+                    <p><strong>{{ deadline.text_pt }}:</strong>
                         {% if deadline.timezone %}
-                        {{ deadline.date | date: "%B %e, %Y." }} ({{ deadline.timezone }})
+                        {{ deadline.date | date: "%-d/%m/%Y" }} ({{ deadline.timezone }})
                         {% else %}
-                        {{ deadline.date | date: "%B %e, %Y." }}
+                        {{ deadline.date | date: "%-d/%m/%Y" }}
                         {% endif %}</p>
                     {% if deadline.pass_due %}
                 </del>

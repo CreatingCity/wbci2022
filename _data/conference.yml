@@ -1,4 +1,6 @@
-full_title: III Workshop Brasileiro de Cidades Inteligentes (WBCI)
+full_title: III Brazilian Workshop on Smart Cities (WBCI)
+full_title_pt: III Workshop Brasileiro de Cidades Inteligentes (WBCI)
+full_title_es: III Workshop Brasileiro de Cidades Inteligentes (WBCI)
 short_title: III WBCI (2022)
 email: wbci2022@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
@@ -11,7 +13,9 @@ description: > # this means to ignore newlines until "baseurl:"
   computação e de áreas sociais aplicadas que estudam os
   desdobramentos do uso de tecnologias no contexto urbano.
 location: Niterói, RJ, 2022
-date: 31 de Julho a 05 de Agosto de 2022 (CSBC)
+date: July 31 to August 05 of 2022 (CSBC)
+date_pt: 31 de Julho a 05 de Agosto de 2022 (CSBC)
+date_es: 31 de Julho a 05 de Agosto de 2022 (CSBC)
 logo_path: ./assets/images/wbci-logo.png
 # logo generator
 # https://editor.freelogodesign.org/?companyName=III%20Workshop%20Brasileiro%20de%20Cidades%20Inteligentes&category=4
@@ -42,61 +46,127 @@ slideshow:
     description: Forte do Imbuí, Niterói-RJ
     photographer_name: Jfernandofc
     photographer_link: https://commons.wikimedia.org/wiki/File:Forte_do_Imbu%C3%AD,_Niteroi,_Rio_de_Janeiro.jpg
+navbar_pt:
+  - id: 0
+    label: Principal
+    path: /index_pt.html
+    visible: True
+  - id: 1
+    label: Organização
+    path: /organization_pt.html
+    visible: True
+  - id: 2
+    label: Chamada de Trabalhos
+    path: /cfp_pt.html
+    visible: True
+  - id: 3
+    label: Submissão
+    path: /submission_pt.html
+    visible: True
+  - id: 4
+    label: Programação
+    path: /program_pt.html
+    visible: True
+  - id: 5
+    label: Informações Gerais
+    path: /venue_pt.html
+    visible: True
+  - id: 6
+    label: Inscrições
+    path: /registration_pt.html
+    visible: True
+navbar_es:
+  - id: 0
+    label: Principal ES
+    path: /index_pt.html
+    visible: True
+  - id: 1
+    label: Organização ES
+    path: /organizacao_es.html
+    visible: True
+  - id: 2
+    label: Chamada de Trabalhos ES
+    path: /chamada.html
+    visible: True
+  - id: 3
+    label: Submissão ES
+    path: /submissao.html
+    visible: True
+  - id: 4
+    label: Programação ES
+    path: /programacao.html
+    visible: True
+  - id: 5
+    label: Informações Gerais ES
+    path: /informacoes.html
+    visible: True
+  - id: 6
+    label: Inscrições ES
+    path: /inscricoes.html
+    visible: True
 navbar:
   - id: 0
     label: Home
     path: /
     visible: True
   - id: 1
-    label: Organização
+    label: Organization
     path: /organization.html
     visible: True
   - id: 2
-    label: Chamada de Trabalhos
+    label: Call for Papers
     path: /cfp.html
     visible: True
   - id: 3
-    label: Submissão
+    label: Submission
     path: /submission.html
     visible: True
   - id: 4
-    label: Programação
+    label: Program
     path: /program.html
     visible: True
   - id: 5
-    label: Informações Gerais
+    label: Venue
     path: /venue.html
     visible: True
   - id: 6
-    label: Inscrições
+    label: Registration
     path: /registration.html
     visible: True
 deadlines:
   - date: 2022-3-15
     #timezone: 9PM PDT
-    text: Prazo de Submissão
+    text: Submission Deadline
+    text_pt: Prazo de Submissão
     pass_due: True
   - date: 2022-3-31
     #timezone: 9PM PDT
-    text: Prazo de Submissão (FINAL)
+    text: Submission Deadline (extended)
+    text_pt: Prazo de Submissão (Estendido)
     pass_due: False
   - date: 2022-5-6
-    text: Divulgação de Aceites
+    text: Acceptance Notice
+    text_pt: Divulgação de Aceites
     pass_due: False
   - date: 2022-5-20
-    text: Versão Final
+    text: Final Version
+    text_pt: Versão Final
     pass_due: False
   - #date: 2022-7-31
     #date: 2022
-    text: Workshop (31/07 a 05/08 - CSBC 2022)
+    text: Workshop (31/jul to 05/aug - CSBC 2022)
+    text_pt: Workshop (31/07 a 05/08 - CSBC 2022)
     pass_due: False
 news:
   - date: 2021-12-08
     text: Website online
+    text_pt: Website online
   - date: 2022-01-15
     text: TPC members invited
+    text_pt: Membros do comitê de programa convidados
   - date: 2022-03-10
     text: Deadline changed to March 31
+    text_pt: Prazo de submissão estendido para 31 de Março
 sponsors:
   - name: SBC
     logo_path: ./assets/images/sponsors/logo-sbc.png

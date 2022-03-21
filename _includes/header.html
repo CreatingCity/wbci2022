@@ -6,73 +6,144 @@
 
             <div class="jumbotron">
                 <img class="img-fluid" src="{{ site.data.conference.logo_path }}">
+                {% if page.lang == "en" %}
                 <h5 class="text-center mt-0">{{ site.data.conference.date }}</h5>
                 <p class="text-center mt-4 mb-4">{{ site.data.conference.full_title }}</p>
+                {% elsif page.lang == "pt" %}
+                <h5 class="text-center mt-0">{{ site.data.conference.date_pt }}</h5>
+                <p class="text-center mt-4 mb-4">{{ site.data.conference.full_title_pt }}</p>
+                {% elsif page.lang == "es" %}
+                <h5 class="text-center mt-0">{{ site.data.conference.date_es }}</h5>
+                <p class="text-center mt-4 mb-4">{{ site.data.conference.full_title_es }}</p>
+                {% endif %}
                 <p class="text-center mb-0">{{ site.data.conference.location }}</p>
             </div>
 
-        </div>     
+        </div>
 
         <!--slide show-->
         <div class="col-xs-6 col-sm-6 col-md-6 col-lg-7 col-xl-6">
-                
-                <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
-                        <div class="carousel-inner" role="listbox">
-                            
-                            {% for slide in site.data.conference.slideshow %}
-                            {% if page.slide_id and page.slide_id  == slide.id %}
-                            <div class="carousel-item active">
-                            {% else %}
-                            <div class="carousel-item">
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+                <div class="carousel-inner" role="listbox">
+
+                    {% for slide in site.data.conference.slideshow %}
+                    {% if page.slide_id and page.slide_id == slide.id %}
+                    <div class="carousel-item active">
+                        {% else %}
+                        <div class="carousel-item">
                             {% endif %}
-                                <!--<img class="img-fluid" src="{{ site.baseurl }}{{ slide.image_path }}" alt="{{ slide.description }}">-->
-                                <img class="img-fluid" src="{{ slide.image_path }}" alt="{{ slide.description }}">
-                                <div class="carousel-caption d-none d-md-block text-muted">
-                                    <p class="align-bottom"> {{ slide.description }}, by <a href="{{ slide.photographer_link }}">{{slide.photographer_name}}</a>, 
-                                        under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons license</a>.
-                                    </p>
-                                </div>
+                            <!--<img class="img-fluid" src="{{ site.baseurl }}{{ slide.image_path }}" alt="{{ slide.description }}">-->
+                            <img class="img-fluid" src="{{ slide.image_path }}" alt="{{ slide.description }}">
+                            <div class="carousel-caption d-none d-md-block text-muted">
+                                <p class="align-bottom"> {{ slide.description }}, by <a
+                                        href="{{ slide.photographer_link }}">{{slide.photographer_name}}</a>,
+                                    under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons
+                                        license</a>.
+                                </p>
                             </div>
-                            {% endfor %}
-
                         </div>
+                        {% endfor %}
+
+                    </div>
                 </div>
+            </div>
         </div>
-    </div>
 
-    <div class="row">
+        <div class="row">
 
-        <!--navbar-->
-        <div class="mynav col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-10 offset-xl-1">
+            <!--navbar-->
+            <div class="mynav col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-10 offset-xl-1">
                 <nav class="nav navbar-toggleable-sm navbar-inverse">
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler"
-                        aria-expanded="false" aria-label="Toggle navigation">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
+                        aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse " id="navbarToggler">
                         <a class="navbar-brand" href="#"> </a>
                         <ul class="navbar-nav mx-auto text-center">
-                            {% for nav in site.data.conference.navbar %}
-                                {% if nav.visible %}
-                                    {% if page.url == nav.path %}
-                                        <li class="nav-item active">
-                                            <a class="nav-link m-1" href=".{{ nav.path }}">
-                                                <strong>{{ nav.label | escape }}</strong>
-                                                <span class="sr-only">(current)</span>
-                                            </a>
-                                        </li>
-                                    {% else %}
-                                        <li class="nav-item">
-                                            <a class="nav-link m-1" href=".{{ nav.path }}">
-                                                <strong>{{ nav.label | escape }}</strong>
-                                            </a>
-                                        </li>   
-                                    {% endif %}
+                            <!-- default navbar is 'navbar' (english)-->
+                            {% assign navbar_list = site.data.conference.navbar %}
+                            {% if page.lang == "en" %}
+                            {% assign navbar_list = site.data.conference.navbar %}
+                            <!-- ENGLISH -->
+                            <li class="nav-item">
+                                <a href="/">
+                                    <img src="/assets/images/64px-United-states_flag_icon_round.svg.png" width="24" />
+                                </a><br />
+                                <a href="/index_pt.html">
+                                    <img src="/assets/images/64px-Brazilian_flag_icon_round.svg.png" width="20" />
+                                </a>
+                                <a href="/index_es.html">
+                                    <img src="/assets/images/spain.png" width="20" />
+                                </a>
+                            </li>
+                            {% elsif page.lang == "pt" %}
+                            {% assign navbar_list = site.data.conference.navbar_pt %}
+                            <!-- PORTUGUÊS -->
+                            <li class="nav-item">
+                                <a href="/index_pt.html">
+                                    <img src="/assets/images/64px-Brazilian_flag_icon_round.svg.png" width="24" />
+                                </a><br />
+                                <a href="/">
+                                    <img src="/assets/images/64px-United-states_flag_icon_round.svg.png" width="20" />
+                                </a>
+                                <a href="/index_es.html">
+                                    <img src="/assets/images/spain.png" width="20" />
+                                </a>
+                            </li>
+                            {% elsif page.lang == "es" %}
+                            {% assign navbar_list = site.data.conference.navbar_es %}
+                            <!-- ESPAÑOL -->
+                            <li class="nav-item">
+                                <a href="/index_es.html">
+                                    <img src="/assets/images/spain.png" width="24" />
+                                </a><br />
+                                <a href="/index_pt.html">
+                                    <img src="/assets/images/64px-Brazilian_flag_icon_round.svg.png" width="20" />
+                                </a>
+                                <a href="/">
+                                    <img src="/assets/images/64px-United-states_flag_icon_round.svg.png" width="20" />
+                                </a>
+                            </li>
+                            {% endif %}
+                            <!-- NAVBAR -->
+                            {% for nav in navbar_list %}
+                            {% if nav.visible %}
+                            {% if page.url == nav.path %}
+                            <!--
+                            <li class="nav-item">
+                                <a href={{ page.url }}>Teste</a>
+                                <a href={{ page.url }}>{{page.url}}</a>
+                                {% if page.url.include? "_pt.html" %}
+                                PT! <a href="/">English</a> / <a href="/esp.html">Español</a>
                                 {% endif %}
+                            </li>
+                            -->
+                            <li class="nav-item active">
+                                <a class="nav-link m-1" href=".{{ nav.path }}">
+                                    <strong>{{ nav.label | escape }}</strong>
+                                    <span class="sr-only">(current)</span>
+                                </a>
+                            </li>
+                            {% else %}
+                            <li class="nav-item">
+                                <a class="nav-link m-1" href=".{{ nav.path }}">
+                                    <strong>{{ nav.label | escape }}</strong>
+                                    <!--
+                                    <strong>LANG: {{ page.lang }}</strong>
+                                    {% if page.lang == "en" %}
+                                    <strong>INGLÊS</strong>
+                                    {% endif %}
+                                    -->
+                                </a>
+                            </li>
+                            {% endif %}
+                            {% endif %}
                             {% endfor %}
                         </ul>
-                        
+
                         <ul class="navbar-nav ml-auto">
                             {% if site.data.conference.social_media.facebook_link != nil %}
                             <li class="nav-item">
@@ -96,7 +167,7 @@
 
                     </div>
                 </nav>
-        </div>
+            </div>
 
-    </div>
+        </div>
 </header>
