@@ -77,32 +77,32 @@ navbar_pt:
     visible: True
 navbar_es:
   - id: 0
-    label: Principal ES
-    path: /index_pt.html
+    label: Home
+    path: /index_es.html
     visible: True
   - id: 1
-    label: Organização ES
-    path: /organizacao_es.html
+    label: Organización
+    path: /organization_es.html
     visible: True
   - id: 2
-    label: Chamada de Trabalhos ES
-    path: /chamada.html
+    label: CFP
+    path: /cfp_es.html
     visible: True
   - id: 3
-    label: Submissão ES
-    path: /submissao.html
+    label: Instrucciones de envío
+    path: /submission_es.html
     visible: True
   - id: 4
-    label: Programação ES
-    path: /programacao.html
+    label: Programa
+    path: /program_es.html
     visible: True
   - id: 5
-    label: Informações Gerais ES
-    path: /informacoes.html
+    label: Venue
+    path: /venue.html
     visible: True
   - id: 6
-    label: Inscrições ES
-    path: /inscricoes.html
+    label: Registro
+    path: /registration_es.html
     visible: True
 navbar:
   - id: 0
@@ -138,24 +138,34 @@ deadlines:
     #timezone: 9PM PDT
     text: Submission Deadline
     text_pt: Prazo de Submissão
+    text_es: Fecha límite de envío de trabajos
     pass_due: True
   - date: 2022-3-31
     #timezone: 9PM PDT
     text: Submission Deadline (extended)
     text_pt: Prazo de Submissão (Estendido)
+    text_es: Fecha límite de envío de trabajos (estendido)
     pass_due: False
   - date: 2022-5-6
     text: Acceptance Notice
     text_pt: Divulgação de Aceites
+    text_es: Acceptance Notice
     pass_due: False
   - date: 2022-5-20
     text: Final Version
     text_pt: Versão Final
+    text_es: Envío de versiones finales de artículos
+    pass_due: False
+  - date: 2022-5-20
+    text: Author Registration
+    text_pt: Inscrição de Autores
+    text_es: Fecha límite de inscripción de autores
     pass_due: False
   - #date: 2022-7-31
     #date: 2022
     text: Workshop (31/jul to 05/aug - CSBC 2022)
     text_pt: Workshop (31/07 a 05/08 - CSBC 2022)
+    text_es: Workshop (31/07 a 05/08 - CSBC 2022)
     pass_due: False
 news:
   - date: 2021-12-08
