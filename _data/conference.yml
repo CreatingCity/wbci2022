@@ -180,6 +180,12 @@ news:
 sponsors:
   - name: SBC
     logo_path: ./assets/images/sponsors/logo-sbc.png
+  - name: IC/UFF
+    logo_path: ./assets/images/sponsors/icuff.jpeg
+  - name: CYTED
+    logo_path: ./assets/images/sponsors/cyted_logo2.jpg
+  - name: TICs4CI
+    logo_path: ./assets/images/sponsors/TICs4CI.png
 social_media:
   facebook_link: https://www.facebook.com/congresso.csbc/
   twitter_link:
