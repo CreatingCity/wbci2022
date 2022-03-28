@@ -145,11 +145,22 @@ deadlines:
     text: Submission Deadline (extended)
     text_pt: Prazo de Submissão (Estendido)
     text_es: Fecha límite de envío de trabajos (estendido)
+    pass_due: True
+  - date: 2022-4-07
+    #timezone: 9PM PDT
+    text: Submission Deadline (final)
+    text_pt: Prazo de Submissão (final)
+    text_es: Fecha límite de envío de trabajos (final)
     pass_due: False
   - date: 2022-5-6
     text: Acceptance Notice
     text_pt: Divulgação de Aceites
     text_es: Acceptance Notice
+    pass_due: False
+  - date: 2022-5-10
+    text: Acceptance Notice (final)
+    text_pt: Divulgação de Aceites (final)
+    text_es: Acceptance Notice (final)
     pass_due: False
   - date: 2022-5-20
     text: Final Version
