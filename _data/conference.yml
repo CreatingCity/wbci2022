@@ -156,7 +156,7 @@ deadlines:
     text: Acceptance Notice
     text_pt: Divulgação de Aceites
     text_es: Acceptance Notice
-    pass_due: False
+    pass_due: True
   - date: 2022-5-10
     text: Acceptance Notice (final)
     text_pt: Divulgação de Aceites (final)
