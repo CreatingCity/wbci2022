@@ -182,12 +182,27 @@ news:
   - date: 2021-12-08
     text: Website online
     text_pt: Website online
+    text_es: Website online
   - date: 2022-01-15
     text: TPC members invited
     text_pt: Membros do comitê de programa convidados
+    text_es: Membros do comitê de programa convidados
   - date: 2022-03-10
     text: Deadline changed to March 31
     text_pt: Prazo de submissão estendido para 31 de Março
+    text_es: Prazo de submissão estendido para 31 de Março
+  - date: 2022-05-12
+    text: Acceptance emails sent
+    text_pt: Emails de aceite enviados
+    text_es: Emails de aceite enviados
+  - date: 2022-06-15
+    text: Public calls for Blockchain Session
+    text_pt: Chamada pública para Colóquio em Blockchain e Web Descentralizada 
+    text_es: Chamada pública para Colóquio em Blockchain e Web Descentralizada
+  - date: 2022-06-20
+    text: WBCI Program is published on CSBC website
+    text_pt: Programação do WBCI é publicada na página do CSBC
+    text_es: Programação do WBCI é publicada na página do CSBC
 sponsors:
   - name: SBC
     logo_path: ./assets/images/sponsors/logo-sbc.png
@@ -197,6 +212,8 @@ sponsors:
     logo_path: ./assets/images/sponsors/cyted_logo2.jpg
   - name: TICs4CI
     logo_path: ./assets/images/sponsors/TICs4CI.png
+  - name: Creating.City
+    logo_path: ./assets/images/sponsors/creatingcity.png
 social_media:
   facebook_link: https://www.facebook.com/congresso.csbc/
   twitter_link:
@@ -226,30 +243,38 @@ technical_program_committees:
       org: IME - USP
     - name: Alvaro Coutinho
       org: High Performance Computing Center - COPPE/UFRJ
+    - name: Anderson Zudio
+      org: Universidade Federal Fluminense
     - name: André Ponce de Leon F de Carvalho
       org: ICMC-USP/S.Carlos
     - name: Antonio Augusto Frohlich
       org: Universidade Federal de Santa Catarina
     - name: Augusto Neto
       org: Universidade Federal do Rio Grande do Norte - UFRN
+    - name: Aura Conci
+      org: UFF
     - name: Bernadette Loscio
       org: Universidade Federal de Pernambuco
+    - name: Bruno Nazário Coelho
+      org: UFOP
+    - name: Bruno Lopes
+      org: Universidade Federal Fluminense
     - name: Carlos da Silva
       org: Sheffield Hallam University
+    - name: Cristiane Faria
+      org: Universidade do Estado do Rio de Janeiro - UERJ
     - name: Daniel Araújo
       org: Federal University of Rio Grande do Norte
     - name: Daniel Menasché
       org: Universidade Federal do Rio de Janeiro
-    - name: Danielo G. Gomes
-      org: Universidade Federal do Ceará (UFC)
     - name: Debora Saade
       org: UFF
+    - name: Diego Brandão
+      org: Cefet/RJ
     - name: Dorgival Guedes
       org: UFMG
-    - name: Edmundo Madeira
-      org: UNICAMP
     - name: Everton Cavalcante
-      org: UFRN - Universidade Federal do Rio Grande do Norte
+      org: Universidade Federal do Rio Grande do Norte
     - name: Fabio Costa
       org: UFG
     - name: Fabio Kon
@@ -264,8 +289,12 @@ technical_program_committees:
       org: UFRN
     - name: Guilherme Travassos
       org: COPPE/UFRJ
+    - name: Heder Dorneles Soares
+      org: Universidade Federal Fluminense
     - name: Helena Ramalhinho Lourenço
       org: Universitat Pompeu Fabra
+    - name: Igor Machado Coelho
+      org: Universidade Federal Fluminense
     - name: Jair Leite
       org: Universidade Federal do Rio Grande do Norte
     - name: Jó Ueyama
@@ -284,16 +313,28 @@ technical_program_committees:
       org: CIn-UFPE
     - name: Leandro Villas
       org: UNICAMP
+    - name: Leandro Aparecido Simal Moreira
+      org: CASNAV/MB
+    - name: Lucídio dos Anjos Formiga Cabral
+      org: Federal University of Paraíba
+    - name: Luis Silva
+      org: CEFET-RJ
     - name: Luis Henrique Costa
       org: Universidade Federal do Rio de Janeiro
     - name: Luiz Fernando Bittencourt
       org: UNICAMP
     - name: Luiza Amalia Pinto Cantão
       org: UNESP
+    - name: Marcia Pasin
+      org: Universidade Federal de Santa Maria
     - name: Marcio Maia
       org: Federal University of Ceara
+    - name: Maria Clicia Castro
+      org: UERJ
     - name: Marley M. B. R. Vellasco
       org: PUC-Rio
+    - name: Matheus Haddad
+      org: Universidade Federal de Ouro Preto
     - name: Miquel Oliver
       org: Department of Information and Communication Technologies, Universitat Pompeu Fabra
     - name: Nélio Domingues Pizzolato
@@ -306,12 +347,22 @@ technical_program_committees:
       org: Universidade de Campinas
     - name: Priscila M V Lima
       org: Universidade Federal do Rio de Janeiro
+    - name: Puca Huachi Penna
+      org: Universidade Federal de Ouro Preto
+    - name: Ricardo Bernardo
+      org: Instituto Federal do Espírito Santo
     - name: Ricardo Coelho Silva
       org: Universidade Federal de Ceará
     - name: Tales Nogueira
       org: Unilab
     - name: Thais Vasconcelos Batista
       org: UFRN
+    - name: Thays Oliveira
+      org: Universitat Pompeu Fabra
+    - name: Thiago Gouveia
+      org: Instituto Federal de Educação, Ciência e Tecnologia da Paraiba
+    - name: Vitor Nazário Coelho
+      org: Universidade Federal Fluminense
     - name: Wesley Shirabayashi
       org: Universidade Estadual de Maringá
 webmaster:
