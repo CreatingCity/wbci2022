@@ -193,9 +193,13 @@ news:
     text_pt: Membros do comitê de programa convidados
     text_es: Membros do comitê de programa convidados
   - date: 2022-03-10
-    text: Deadline changed to March 31
+    text: Deadline extended to March 31
     text_pt: Prazo de submissão estendido para 31 de Março
     text_es: Prazo de submissão estendido para 31 de Março
+  - date: 2022-04-07
+    text: Deadline extended to April 7 (Anywhere on Earth Time)
+    text_pt: Prazo de submissão estendido para 7 de Abril (Anywhere on Earth Time)
+    text_es: Prazo de submissão estendido para 7 de Abril (Anywhere on Earth Time)
   - date: 2022-05-12
     text: Acceptance emails sent
     text_pt: Emails de aceite enviados
