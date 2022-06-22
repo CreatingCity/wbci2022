@@ -1,6 +1,6 @@
-full_title: III Brazilian Workshop on Smart Cities (WBCI)
-full_title_pt: III Workshop Brasileiro de Cidades Inteligentes (WBCI)
-full_title_es: III Workshop Brasileño de Ciudades Inteligentes (WBCI)
+full_title: III Brazilian Workshop on Smart Cities - WBCI (part of CSBC2022)
+full_title_pt: III Workshop Brasileiro de Cidades Inteligentes - WBCI (parte do CSBC2022)
+full_title_es: III Workshop Brasileño de Ciudades Inteligentes - WBCI (CSBC2022)
 short_title: III WBCI (2022)
 email: wbci2022@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
@@ -13,9 +13,9 @@ description: > # this means to ignore newlines until "baseurl:"
   computação e de áreas sociais aplicadas que estudam os
   desdobramentos do uso de tecnologias no contexto urbano.
 location: Niterói, RJ, Brasil, 2022
-date: July 31 to August 05 of 2022 (CSBC)
-date_pt: 31 de Julho a 05 de Agosto de 2022 (CSBC)
-date_es: 31 de Julio al 5 de Agosto de 2022 (CSBC)
+date: 03-04 August 2022
+date_pt: 03 a 04 de Agosto de 2022
+date_es: 03 a 04 de Agosto de 2022
 logo_path: ./assets/images/wbci-logo.png
 # logo generator
 # https://editor.freelogodesign.org/?companyName=III%20Workshop%20Brasileiro%20de%20Cidades%20Inteligentes&category=4
@@ -172,6 +172,11 @@ deadlines:
     text_pt: Inscrição de Autores
     text_es: Fecha límite de inscripción de autores
     pass_due: False
+  - date: 2022-6-15
+    text: Contributions for the Blockchain Session Deadline (final)
+    text_pt: Contribuições para o Colóquio em Blockchain (final)
+    text_es: Contribuições para o Colóquio em Blockchain (final)
+    pass_due: False
   - #date: 2022-7-31
     #date: 2022
     text: Workshop (31/jul to 05/aug - CSBC 2022)
@@ -234,6 +239,23 @@ program_chair:
   - name: Vitor Nazário Coelho
     org: Pesquisador Creating.City
     homepage: https://vncoelho.github.io/
+special_session_chairs:
+  - name: Alberto Paradisi
+    org:  CPqD
+  - name: Allan Freitas
+    org: IFBA
+  - name: Billy Pinheiro
+    org: Amachains
+  - name: Fabíola Greve
+    org: UFBA
+  - name: Glauber Gonçalves
+    org: UFPI
+  - name: Igor Machado Coelho
+    org: UFF
+  - name: Luís Bona
+    org: UFPR
+  - name: Marcela Gonçalves
+    org: Multiledgers
 technical_program_committees:
     - name: Akebo Yamakami
       org: UNICAMP

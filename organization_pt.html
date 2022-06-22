@@ -46,6 +46,27 @@ lang: pt
             </div>
             {% endif %}
         </div>
+        <!--######### Special Session Chairs ##########-->
+        <div class="card">
+            <div class="card-header text-white bg-inverse"><strong>Comitê Organizador do Colóquio em Blockchain e Web
+                    Descentralizada</strong></div>
+            {% if site.data.conference.special_session_chairs %}
+            {% for committee in site.data.conference.special_session_chairs %}
+            <div class="card-block bg-faded committee">
+                <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a>
+                <p>
+                <p class="card-subtitle text-muted" style="font-size: 90%;">{{ committee.org }}</p>
+            </div>
+            {% endfor %}
+            {% else %}
+            <div class="card-block bg-faded committee">
+                <p class="card-title">TBA</p>
+                <p><strong>TBA</strong>
+                <p>
+                <p class="card-subtitle text-muted" style="font-size: 90%;">TBA</p>
+            </div>
+            {% endif %}
+        </div>
         <!--######### webmaster ##########-->
         <div class="card">
             <div class="card-header text-white bg-inverse"><strong>Webmaster</strong></div>
