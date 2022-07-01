@@ -1,8 +1,18 @@
-# Jekyll-Conference-Template
+# Jekyll-Conference-Template (WBCI-fork)
 
 An academic conference website template built using Jekyll.
 
-Run: `bundle exec jekyll serve`
+## Instructions
+General instructions (needs ruby and `bundle` first):
+- `bundle install`
+- `bundle exec jekyll serve`
+
+## Adaptations for WBCI version
+
+During the organization of WBCI 2022 event, this template was adjusted to handle basic internationalization (three languages were used, English, Portuguese and Spanish).
+
+Changes are made in file `_data/conference.yml` (always put everything in three languages),
+and each page must have a `lang` info on top, such as `lang: en` or `lang: pt` or `lang: es` (this automatically loads the correct menu for each page).
 
 ## Features
 
