@@ -176,7 +176,7 @@ deadlines:
     text: Contributions for the Blockchain Session Deadline 
     text_pt: Contribuições para o Colóquio em Blockchain 
     text_es: Contribuições para o Colóquio em Blockchain
-    pass_due: False
+    pass_due: True
   - date: 2022-7-15
     text: Contributions for the Blockchain Session Deadline (final)
     text_pt: Contribuições para o Colóquio em Blockchain (final)
