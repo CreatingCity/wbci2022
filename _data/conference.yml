@@ -173,6 +173,11 @@ deadlines:
     text_es: Fecha límite de inscripción de autores
     pass_due: False
   - date: 2022-7-8
+    text: Contributions for the Blockchain Session Deadline 
+    text_pt: Contribuições para o Colóquio em Blockchain 
+    text_es: Contribuições para o Colóquio em Blockchain
+    pass_due: False
+  - date: 2022-7-15
     text: Contributions for the Blockchain Session Deadline (final)
     text_pt: Contribuições para o Colóquio em Blockchain (final)
     text_es: Contribuições para o Colóquio em Blockchain (final)
