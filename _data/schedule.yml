@@ -44,11 +44,52 @@
     title: "Lunch time slot"
     type: "service"
   - startTime: "14:00"
-    endTime: "15:10"
-    title: "Palestra: 'Entregas Urbanas em Last Mile na Loggi: estado da prática e
-perspectivas'"
-    speaker: "Juan Camilo & Fillipe Goulart (LOGGI)"
+    endTime: "15:00"
+    title: "Palestra: <i>Entregas Urbanas em Last Mile na Loggi: estado da prática e perspectivas</i>"
+    type: "presentation"
+    events:
+      - title: "Resumo"
+        speakers: >
+          A Loggi, estabelecida em 2013, é uma das Unicórnios no Brasil, com
+          soluções inovadoras e relevantes na área de logística, com forte base em
+          tecnologias digitais. A Loggi, com sede em São Paulo e com um hub de
+          desenvolvimento em Lisboa/Portugal, tem se posicionado, de maneira
+          inédita, para ser a solução de logística, facilitando o crescimento de um
+          novo comércio no Brasil, com economia, agilidade e confiabilidade. A etapa
+          de last-mile corresponde ao maior custo de transporte em cadeias de
+          distribuição com alta granularidade. Modelos e metodologias eficientes
+          para roteirização de veículos de last-mile são um elemento central de
+          cadeias logísticas eficientes. O foco desta palestra está nos desafios
+          provenientes de restrições operacionais e práticas enfrentados na
+          constituição desses algoritmos. Também é apresentado brevemente o
+          Loggi BUD, um repositório com conjuntos de dados realistas para
+          problemas de roteamento de larga escala e que visa suprir esta carência na
+          comunidade científica. Além disso, seu potencial pedagógico e de
+          colaborações também é evidenciado.
+      - title: "Juan Camilo - Short Bio"
+        speakers: >
+          "Juan Camilo é formado em Engenharia Eletrônica pela Universidade
+          Francisco de Paula Santander, e possui mestrado e doutorado pela
+          Universidade Federal de Minas Gerais. Atualmente, é gestor de engenharia
+          na Loggi, trabalhando diretamente em problemas de otimização de malha,
+          roteirização de First-mile, Middle-Mile, e Last-mile. A sua pesquisa está
+          desenvolvida no uso de heurísticas e meta-heurísticas, além da mineração
+          de dados de trajetórias e inteligência computacional."
+        note: '<img width="100%" src="./assets/images/Juan-Camilo.png"/>'
+      - title: "Fillipe Goulart - Short Bio"
+        speakers: >
+          "Fillipe Goulart é formado em Engenharia Elétrica pela Universidade
+          Federal de Minas Gerais, onde também concluiu seu Mestrado e
+          Doutorado. Hoje em dia atua como engenheiro de software na Loggi,
+          resolvendo problemas de abrangência, projeção e desenvolvimento da sua
+          malha logística. Seus campos principais de pesquisa consistem no uso de
+          meta-heurísticas em problemas de otimização contínua e combinatória."
+        note: '<img width="100%" src="./assets/images/Fillipe-Goulart.png"/>'
+    #speaker: "Juan Camilo & Fillipe Goulart (LOGGI)"
     #chair: "Xiuzhen Cheng"
+  - startTime: "14:50"
+    endTime: "15:00"
+    title: "Perguntas"
   - startTime: "15:10"
     endTime: "16:00"
     title: "Painel em Cidades Inteligentes"
