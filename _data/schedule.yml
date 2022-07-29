@@ -11,10 +11,13 @@
     events: 
       - title: "Contribuições na logística de entrega urbana expressa de última milha usando grandes instâncias reais de cidades brasileiras"
         speakers: "Thailsson Clementino,Rosiane de Freitas,Eduardo Uchoa"
+        note: 9:30 - 9:45
       - title: "Uma Heurística Híbrida para o Problema de Roteamento de Viaturas Policiais em Grandes Centros Urbanos"
         speakers: "Raphael Leardini,Bruno Cunha Sá,Eduardo Canellas,Wagner Santos,Yuri Frota,Daniel de Oliveira,Isabel Rosseti" 
+        note: 9:50 - 10:05
       - title: "Sobre um Segmento de Logística Reversa em Cidades Inteligentes: o Problema da Coleta do Lixo Eletrônico"
         speakers: "Silvana Avila,Luiz Satoru Ochi,Simone de Lima Martins"
+        note: 10:10 - 11:25
   - startTime: "10:30"
     endTime: "11:00"
     title: "Coffee break"
@@ -26,19 +29,24 @@
     events: 
       - title: "Uma Ferramenta de Visualização de Dados Georreferenciados e o Turismo Inteligente como Estudo de Caso"
         speakers: "Anderson de Menezes,Alexandre Plastino,Antonio Rocha,Verônica Mayer"
+        note: 11:00 - 11:15
       - title: "Desafios de governança de sistemas de informações aplicados a centros de controle de cidades inteligentes"
         speakers: "Michele Lima dos Santos Puschi,Alessandro Santiago Santos,Anderson Silva" 
+        note: 11:20 - 11:35
       - title: "Um modelo de programação matemática para o problema Weighted Minimum Broadcast Time"
         speakers: "Alfredo Lima,Luiz Satoru Ochi,Bruno Nogueira,Rian Pinheiro"
+        note: 11:40 - 11:55
   - startTime: "12:00"
     endTime: "12:30"
     title: "Technical Session - Short Papers (Part 1)"
     type: "presentation"
     events: 
       - title: "Intelligent Road Intersections: A Case for Digital Twins"
-        speakers: "Víctor García Martínez,Moises Ribeiro,Divanilson Campelo" 
+        speakers: "Víctor García Martínez,Moises Ribeiro,Divanilson Campelo"
+        note: 12:00 - 12:10
       - title: "Segmento de Logística Reversa e Transportes no Contexto de Cidades e Regiões Inteligentes: Literatura e Proposta"
         speakers: "Luciano Plouvier,Luiz Satoru Ochi"
+        note: 12:15 - 12:25
   - startTime: "12:30"
     endTime: "14:00"
     title: "Lunch time slot"
@@ -87,8 +95,8 @@
         note: '<img width="100%" src="./assets/images/Fillipe-Goulart.png"/>'
     #speaker: "Juan Camilo & Fillipe Goulart (LOGGI)"
     #chair: "Xiuzhen Cheng"
-  - startTime: "14:50"
-    endTime: "15:00"
+  - startTime: "15:00"
+    endTime: "15:10"
     title: "Perguntas"
   - startTime: "15:10"
     endTime: "16:00"
@@ -104,10 +112,13 @@
     events: 
       - title: "Um algoritmo eficiente para um problema multiobjetivo de roteamento em rede de VANTs"
         speakers: "Elias Marques Junior,Vitor Nazário Coelho,Igor Machado Coelho,Bruno Nazário Coelho,Luiz Satoru Ochi"
+        note: 9:00 - 9:15
       - title: "Algoritmo VNS para o Problema de Roteamento Híbrido com Veículo-Drone para Serviço de Entrega e Coleta"
-        speakers: "Anderson Zudio,Luiz Satoru Ochi,Igor Machado Coelho" 
+        speakers: "Anderson Zudio,Luiz Satoru Ochi,Igor Machado Coelho"
+        note: 9:20 - 9:35
       - title: "Veículos Aéreos Não Tripulados para a Vigilância de Áreas Urbanas em Cidades Inteligentes"
         speakers: "Mathias Menezes,Ricardo Bernardo,Erick Moreira,Paulo Fernando Ferreira Rosa,Hebert Azevedo Sa"
+        note: 9:40 - 9:55
   - startTime: "10:00"
     endTime: "10:30"
     title: "Technical Session - Short Papers (part 2)"
@@ -115,8 +126,10 @@
     events: 
       - title: "Plataforma móvel Robótica-UV para desinfecção de ambientes: uma solução no combate à COVID-19 e outros agentes patogênicos"
         speakers: "Fabio Chagas"
+        note: 10:00 - 10:10
       - title: "Modelos 3D em escala real para preservação cultural de construções históricas em cidades inteligentes: uma aplicação para mini VANTs"
         speakers: "Thiago Baldivieso,Alexandre Boente,Taise Grazielle Batista,Paulo Fernando Ferreira Rosa"
+        note: 10:15 - 10:25
   - startTime: "10:30"
     endTime: "11:00"
     title: "Coffee break"
@@ -128,10 +141,13 @@
     events: 
       - title: "Review on Common Techniques for Urban Environment Video Analytics"
         speakers: "Henry O. Velesaca,Patricia L. Suárez,Angel Sappa,Dario Carpio,Rafael Rivadeneira,Angel Sanchez"
+        note: 11:00 - 11:15
       - title: "Detecção Inteligente de Falhas em Pavimentações Asfálticas com Redes Neurais Convolucionais Regionais"
         speakers: "Rafael Barbosa,Elloá B. Guedes,Carlos Mauricio Figueiredo" 
+        note: 11:20 - 11:35
       - title: "Um Estudo de Caso da Detecção do Uso de Máscaras Faciais com Redes Neurais Convolucionais Regionais"
         speakers: "Diego Lucena,Elloá B. Guedes,Carlos Mauricio Figueiredo"
+        note: 11:40 - 11:55
   - startTime: "12:00"
     endTime: "12:30"
     title: "Plenary Discussions and Best Papers"
