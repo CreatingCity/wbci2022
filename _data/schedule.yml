@@ -145,6 +145,52 @@
     title: "Special Session: Colóquio em Blockchain e Web Descentralizada"
     type: "presentation"
     events: 
-      - title: "Open Call until July 15th"
+      - title: Abertura
+        speakers: 14:00 - 14:05
+      - title: "Sessão Técnica 1: Sociedade e Web Descentralizada"
+        speakers: 14:05 - 14:30
+      - title: Aplicações e Impactos da Blockchain na Sociedade	
+        speakers: EMANUEL FERREIRA COUTINHO (UFC), HUGO PATRICIO DE FREITAS (UFC), IESLEY BEZERRA DOS SANTOS (UFC), PEDRO GABRIEL RODRIGUES LUNA TEMOTEO (UFC), DELANO JOSE HOLANDA MAIA (UFC), WAGNER LUIZ BRAGA BEZERRA (UFC)
+      - title: "Domínios, aplicações, desafios e oportunidades sobre Non-Fungible Tokens (NFT): Um mapeamento sistemático da literatura"
+        speakers: 	Gislainy Crisostomo Velasco (UFG), Sergio T. Carvalho (UFG)
+      - title: Uma arquitetura baseada em blockchain para gerenciamento de proveniência de dados na Internet das Coisas	
+        speakers: Marcos Alves Vieira (UFG), Sérgio Teixeira de Carvalho (UFG)
+      - title: Blockchain e Internet das Coisas aplicados ao processo de fermentação de cacau gourmet	
+        speakers: Jauberth Weyll Abijaude (UFBA/UESC), Levy Santiago (UFBA), Péricles de Lima Sobreira (UQO - Université du Québec en Outaouais), Fabíola Greve (UFBA)
+      - title: "ChainID e Gifflair: Dois artefatos tecnológicos para o avanço da infraestrutura em blockchain"
+        speakers: 	Silvio Queiroz (IC/UFBA), Levy Santiago (IC/UFBA), Jauberth Abijaude (UESC), Fabíola Greve (IC/UFBA)
+      - title: "Sessão Técnica 2: Redes e Infraestrutura"
+        speakers: 14:30 - 14:55
+      - title: Análise de Custos e Benefícios de Infraestruturas em Redes Blockchain Públicas e Permissionadas
+        speakers: Alex Borges Vieira (UFJF), Glauber Dias Gonçalves (UFPI), José Augusto Nacif (UFV), Heder Soares Bernardino (UFJF), Pedro Hércules Dantas (UFPI), Ronan Dutra Mendonça (UFV), Saulo Moraes Villela (UFJF)
+      - title: Explorando Modelos de Inteligência Artificial para Aquisição de Conhecimento em Redes Blockchains
+        speakers: Alex Borges Vieira (UFJF), Daniel Muller Rezende (UFJF), Glauber Dias Gonçalves (UFPI), Heder Soares Bernardino (UFJF), Júlia Almeida Valadares (UFJF), Pedro Henrique Oliveira (UFJF), Saulo Moraes Villela (UFJF)
+      - title: Framework de caching D2D seguro baseado em gerenciamento de confiança e blockchain para borda da rede móvel
+        speakers: Acquila Santos Rocha (UFG), Vinicius da Cunha Martins Borges (UFG), Billy Pinheiro (Amachains)
+      - title: Gerenciamento de Recursos de Rede Utilizando as Tecnologias Blockchain e Machine Learning
+        speakers: João Paulo de Brito Gonçalves (IFES), Rodolfo da Silva Villaça (UFES), Roberta Lima Gomes (UFES)
+      - title: Um Estudo sobre Arquiteturas e Desempenho em Infraestruturas de Blockchain Permissionadas	
+        speakers: EMANUEL FERREIRA COUTINHO (UFC), ALAN NASCIMENTO GOMES (UFC)
+      - title: "Sessão Técnica 3: Consenso Distribuído"
+        speakers: 14:55 - 15:20
+      - title: Aplicações de Ledger Distribuída e os Mecanismos de Base para o Consenso
+        speakers: Allan Edgard Silva Freitas (IFBA)
+      - title: Consenso em Redes não Permissionadas via Reputação de Autoria
+        speakers: Francisco Sant'Anna (UERJ)
+      - title: Estudos em Consenso Bizantino e Máquinas Virtuais na Blockchain Neo
+        speakers: Igor Machado Coelho (IC/UFF & PPG-CComp/UERJ), Vanessa Fernandes da Silva (PPG-CComp/UERJ), Rodolfo Pereira Araújo (PPG-CComp/UERJ)
+      - title: Formalização de conectores Reo híbridos com aplicações a Consenso Bizantino
+        speakers: Daniel Arena Toledo (IC/UFF), Bruno Lopes (IC/UFF), Igor Machado Coelho (IC/UFF)
+      - title: "Sessão Técnica 4: Aplicações Corporativas em Blockchain"
+        speakers: 15:20 - 15:45
+      - title: "Be.Chain: Metodologia para construção de aplicações baseadas em tecnologia blockchain na área de gestão de operações"
+        speakers: "Dr. Alfredo Colenci Neto (USP)"
+      - title: Blockchain de Rastreabilidade de Créditos Educacionais
+        speakers: Jean Everson Martina (UFSC)
+      - title: Pesquisa e Desenvolvimento em Blockchain no Grupo de Redes e Comunicação Multimídia da Universidade Federal do Pará
+        speakers: Alan Tony Souza Veloso (GERCOM-UFPA), Antônio Jorge Gomes Abelém (GERCOM-UFPA), Billy Anderson Pinheiro (Amazônia Blockchain Solutions), Murilo Cruz da Silva (GERCOM-UFPA)
+      - title: BallotBR – Uma aplicação em Blockchain para execução de deliberações em consórcios de óleo e gás
+        speakers: Rafael Barbosa Nasser (PUC-Rio), Cristiane Lodi (Petrobras), Paulo Henrique Cardoso Alves (PUC-Rio),  Isabella Frajhof (PUC-Rio), Yang Ricardo Miranda (PUC-Rio) Élisson Michael Fernandes Meirelles Araújo (PUC-Rio), Flavia Pacheco Teixeira da Silva (Petrobras), Marcus Vinicius Barbosa Moreno (Petrobras), Eduardo Bogea Flach (Petrobras)
+      - title: "Plenária: 15:45 - 16:00"
         speakers: "<a href='https://creating.city/wbci2022/Chamada-do-Coloquio-em-Blockchain-Web-Descentralizada-estendido.pdf'>[PDF] Chamada-do-Coloquio-em-Blockchain-Web-Descentralizada-estendido.pdf</a>"
         
