@@ -9,13 +9,13 @@
     title: "Technical Session 1 - Logistics"
     type: "presentation"
     events: 
-      - title: "Contribuições na logística de entrega urbana expressa de última milha usando grandes instâncias reais de cidades brasileiras"
+      - title: "Contribuições na logística de entrega urbana expressa de última milha usando grandes instâncias reais de cidades brasileiras <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20440/20268'>[PDF]</a>"
         speakers: "Thailsson Clementino,Rosiane de Freitas,Eduardo Uchoa"
         note: 9:30 - 9:45
-      - title: "Uma Heurística Híbrida para o Problema de Roteamento de Viaturas Policiais em Grandes Centros Urbanos"
+      - title: "Uma Heurística Híbrida para o Problema de Roteamento de Viaturas Policiais em Grandes Centros Urbanos <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20441/20269'>[PDF]</a>"
         speakers: "Raphael Leardini,Bruno Cunha Sá,Eduardo Canellas,Wagner Santos,Yuri Frota,Daniel de Oliveira,Isabel Rosseti" 
         note: 9:50 - 10:05
-      - title: "Sobre um Segmento de Logística Reversa em Cidades Inteligentes: o Problema da Coleta do Lixo Eletrônico"
+      - title: "Sobre um Segmento de Logística Reversa em Cidades Inteligentes: o Problema da Coleta do Lixo Eletrônico <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20442/20270'>[PDF]</a>"
         speakers: "Silvana Avila,Luiz Satoru Ochi,Simone de Lima Martins"
         note: 10:10 - 11:25
   - startTime: "10:30"
@@ -27,13 +27,13 @@
     title: "Technical Session 2 - Governance, Data and Networks"
     type: "presentation"
     events: 
-      - title: "Uma Ferramenta de Visualização de Dados Georreferenciados e o Turismo Inteligente como Estudo de Caso"
+      - title: "Uma Ferramenta de Visualização de Dados Georreferenciados e o Turismo Inteligente como Estudo de Caso <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20443/20271'>[PDF]</a>"
         speakers: "Anderson de Menezes,Alexandre Plastino,Antonio Rocha,Verônica Mayer"
         note: 11:00 - 11:15
-      - title: "Desafios de governança de sistemas de informações aplicados a centros de controle de cidades inteligentes"
+      - title: "Desafios de governança de sistemas de informações aplicados a centros de controle de cidades inteligentes <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20444/20272'>[PDF]</a>"
         speakers: "Michele Lima dos Santos Puschi,Alessandro Santiago Santos,Anderson Silva" 
         note: 11:20 - 11:35
-      - title: "Um modelo de programação matemática para o problema Weighted Minimum Broadcast Time"
+      - title: "Um modelo de programação matemática para o problema Weighted Minimum Broadcast Time <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20445/20273'>[PDF]</a>"
         speakers: "Alfredo Lima,Luiz Satoru Ochi,Bruno Nogueira,Rian Pinheiro"
         note: 11:40 - 11:55
   - startTime: "12:00"
@@ -41,10 +41,10 @@
     title: "Technical Session - Short Papers (Part 1)"
     type: "presentation"
     events: 
-      - title: "Intelligent Road Intersections: A Case for Digital Twins"
+      - title: "Intelligent Road Intersections: A Case for Digital Twins <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20453/20281'>[PDF]</a>"
         speakers: "Víctor García Martínez,Moises Ribeiro,Divanilson Campelo"
         note: 12:00 - 12:10
-      - title: "Segmento de Logística Reversa e Transportes no Contexto de Cidades e Regiões Inteligentes: Literatura e Proposta"
+      - title: "Segmento de Logística Reversa e Transportes no Contexto de Cidades e Regiões Inteligentes: Literatura e Proposta <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20454/20282'>[PDF]</a>"
         speakers: "Luciano Plouvier,Luiz Satoru Ochi"
         note: 12:15 - 12:25
   - startTime: "12:30"
@@ -110,13 +110,13 @@
     title: "Technical Session 3 - Drones"
     type: "presentation"
     events: 
-      - title: "Um algoritmo eficiente para um problema multiobjetivo de roteamento em rede de VANTs"
+      - title: "Um algoritmo eficiente para um problema multiobjetivo de roteamento em rede de VANTs <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20446/20274'>[PDF]</a>"
         speakers: "Elias Marques Junior,Vitor Nazário Coelho,Igor Machado Coelho,Bruno Nazário Coelho,Luiz Satoru Ochi"
         note: 9:00 - 9:15
-      - title: "Algoritmo VNS para o Problema de Roteamento Híbrido com Veículo-Drone para Serviço de Entrega e Coleta"
+      - title: "Algoritmo VNS para o Problema de Roteamento Híbrido com Veículo-Drone para Serviço de Entrega e Coleta <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20447/20275'>[PDF]</a>"
         speakers: "Anderson Zudio,Luiz Satoru Ochi,Igor Machado Coelho"
         note: 9:20 - 9:35
-      - title: "Veículos Aéreos Não Tripulados para a Vigilância de Áreas Urbanas em Cidades Inteligentes"
+      - title: "Veículos Aéreos Não Tripulados para a Vigilância de Áreas Urbanas em Cidades Inteligentes <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20448/20276'>[PDF]</a>"
         speakers: "Mathias Menezes,Ricardo Bernardo,Erick Moreira,Paulo Fernando Ferreira Rosa,Hebert Azevedo Sa"
         note: 9:40 - 9:55
   - startTime: "10:00"
@@ -124,10 +124,10 @@
     title: "Technical Session - Short Papers (part 2)"
     type: "presentation"
     events: 
-      - title: "Plataforma móvel Robótica-UV para desinfecção de ambientes: uma solução no combate à COVID-19 e outros agentes patogênicos"
+      - title: "Plataforma móvel Robótica-UV para desinfecção de ambientes: uma solução no combate à COVID-19 e outros agentes patogênicos <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20452/20280'>[PDF]</a>"
         speakers: "Fabio Chagas"
         note: 10:00 - 10:10
-      - title: "Modelos 3D em escala real para preservação cultural de construções históricas em cidades inteligentes: uma aplicação para mini VANTs"
+      - title: "Aplicação de mini VANTs em Modelos 3D em escala real para preservação cultural de construções históricas <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20455/20283'>[PDF]</a>"
         speakers: "Thiago Baldivieso,Alexandre Boente,Taise Grazielle Batista,Paulo Fernando Ferreira Rosa"
         note: 10:15 - 10:25
   - startTime: "10:30"
@@ -139,13 +139,13 @@
     title: "Technical Session 4 - Multimedia and Machine Learning"
     type: "presentation"
     events: 
-      - title: "Review on Common Techniques for Urban Environment Video Analytics"
+      - title: "Review on Common Techniques for Urban Environment Video Analytics <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20449/20277'>[PDF]</a>"
         speakers: "Henry O. Velesaca,Patricia L. Suárez,Angel Sappa,Dario Carpio,Rafael Rivadeneira,Angel Sanchez"
         note: 11:00 - 11:15
-      - title: "Detecção Inteligente de Falhas em Pavimentações Asfálticas com Redes Neurais Convolucionais Regionais"
+      - title: "Detecção Inteligente de Falhas em Pavimentações Asfálticas com Redes Neurais Convolucionais Regionais <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20450/20278'>[PDF]</a>"
         speakers: "Rafael Barbosa,Elloá B. Guedes,Carlos Mauricio Figueiredo" 
         note: 11:20 - 11:35
-      - title: "Um Estudo de Caso da Detecção do Uso de Máscaras Faciais com Redes Neurais Convolucionais Regionais"
+      - title: "Um Estudo de Caso da Detecção do Uso de Máscaras Faciais com Redes Neurais Convolucionais Regionais <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20451/20279'>[PDF]</a>"
         speakers: "Diego Lucena,Elloá B. Guedes,Carlos Mauricio Figueiredo"
         note: 11:40 - 11:55
   - startTime: "12:00"
