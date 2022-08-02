@@ -3,7 +3,11 @@
   timeslots:
   - startTime: "9:00"
     endTime: "9:30"
-    title: "Open remarks <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20456/20284'>[PDF]</a>"
+    title: "Open remarks"
+    events: 
+    - title: "Em Busca das Cidades Cripto: Edição 2022 do WBCI <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20456/20284'>[PDF]</a>"
+      speakers: "Igor Machado Coelho, Vitor Nazário Coelho, Thays Aparecida de Oliveira, Paulo Fernando Fereira Rosa, Luiz Satoru Ochi"
+      note: 9:00 - 9:30
   - startTime: "9:30"
     endTime: "10:30"
     title: "Technical Session 1 - Logistics"

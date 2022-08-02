@@ -218,6 +218,8 @@ news:
     text_pt: Programação do WBCI é publicada na página do CSBC
     text_es: Programação do WBCI é publicada na página do CSBC
 sponsors:
+  - name: CSBC 2022
+    logo_path: ./assets/images/sponsors/csbc2022.jpeg
   - name: SBC
     logo_path: ./assets/images/sponsors/logo-sbc.png
   - name: IC/UFF
