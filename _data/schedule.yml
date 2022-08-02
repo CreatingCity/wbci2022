@@ -100,12 +100,30 @@
     #speaker: "Juan Camilo & Fillipe Goulart (LOGGI)"
     #chair: "Xiuzhen Cheng"
   - startTime: "15:00"
-    endTime: "15:10"
-    title: "Perguntas"
-  - startTime: "15:10"
     endTime: "16:00"
-    title: "Painel em Cidades Inteligentes"
-    speaker: "prof. André Luis Azevedo Guedes, prof. Paulo Rosa, prof. Luiz Satoru Ochi"
+    title: "Painel: Experiências Acadêmicas e Práticas em Cidades Inteligentes / Moderador: prof. Igor Machado Coelho"
+    type: "presentation"
+    events:
+      - title: "André Luis Azevedo Guedes"
+        speakers: >
+          Prof. André Luis Azevedo Guedes - UNISUAM / UFF
+        note: '<img width="100%" src="./assets/images/Andre-Luis-Guedes.jpg"/>'
+      - title: "Valéria Braga"
+        speakers: >
+          Valéria Braga - Secretária de Ciência,Tecnologia e Inovação
+        note: '<img width="100%" src="./assets/images/Valeria-Braga-PMN.jpg"/>'
+      - title: "Enzo Mayer Tessarolo"
+        speakers: >
+          Enzo Mayer Tessarolo - Subsecretário de Modernização da Gestão em Niterói
+        note: '<img width="100%" src="./assets/images/Enzo-Mayer.jpg"/>'
+      - title: "Paulo Rosa"
+        speakers: >
+          Prof. Paulo Rosa - Instituto Militar de Engenharia (IME)
+        note: '<img width="100%" src="./assets/images/Paulo-Rosa.jpg"/>'
+      - title: "Luiz Satoru Ochi"
+        speakers: >
+          Prof. Luiz Satoru Ochi - Instituto de Computação / Universidade Federal Fluminense (IC-UFF)
+        note: '<img width="100%" src="./assets/images/Luiz-Satoru.jpg"/>'
 - date: "2022-08-04"
   dateReadable: "04 de Agosto (quinta-feira)"
   timeslots:
