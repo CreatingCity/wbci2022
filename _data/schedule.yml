@@ -13,13 +13,13 @@
     title: "Technical Session 1 - Logistics / Sala: 202"
     type: "presentation"
     events: 
-      - title: "Contribuições na logística de entrega urbana expressa de última milha usando grandes instâncias reais de cidades brasileiras <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20440/20268'>[PDF]</a>"
+      - title: "Contribuições na logística de entrega urbana expressa de última milha usando grandes instâncias reais de cidades brasileiras (VIDEO) <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20440/20268'>[PDF]</a>"
         speakers: "Thailsson Clementino,Rosiane de Freitas,Eduardo Uchoa"
         note: 9:30 - 9:45
       - title: "Uma Heurística Híbrida para o Problema de Roteamento de Viaturas Policiais em Grandes Centros Urbanos <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20441/20269'>[PDF]</a>"
         speakers: "Raphael Leardini,Bruno Cunha Sá,Eduardo Canellas,Wagner Santos,Yuri Frota,Daniel de Oliveira,Isabel Rosseti" 
         note: 9:50 - 10:05
-      - title: "Sobre um Segmento de Logística Reversa em Cidades Inteligentes: o Problema da Coleta do Lixo Eletrônico <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20442/20270'>[PDF]</a>"
+      - title: "Sobre um Segmento de Logística Reversa em Cidades Inteligentes: o Problema da Coleta do Lixo Eletrônico (VIDEO) <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20442/20270'>[PDF]</a>"
         speakers: "Silvana Avila,Luiz Satoru Ochi,Simone de Lima Martins"
         note: 10:10 - 11:25
   - startTime: "10:30"
@@ -138,7 +138,7 @@
       - title: "Algoritmo VNS para o Problema de Roteamento Híbrido com Veículo-Drone para Serviço de Entrega e Coleta <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20447/20275'>[PDF]</a>"
         speakers: "Anderson Zudio,Luiz Satoru Ochi,Igor Machado Coelho"
         note: 9:20 - 9:35
-      - title: "Veículos Aéreos Não Tripulados para a Vigilância de Áreas Urbanas em Cidades Inteligentes <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20448/20276'>[PDF]</a>"
+      - title: "Veículos Aéreos Não Tripulados para a Vigilância de Áreas Urbanas em Cidades Inteligentes (VIDEO) <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20448/20276'>[PDF]</a>"
         speakers: "Mathias Menezes,Ricardo Bernardo,Erick Moreira,Paulo Fernando Ferreira Rosa,Hebert Azevedo Sa"
         note: 9:40 - 9:55
   - startTime: "10:00"
@@ -161,7 +161,7 @@
     title: "Technical Session 4 - Multimedia and Machine Learning / Sala: 202"
     type: "presentation"
     events: 
-      - title: "Review on Common Techniques for Urban Environment Video Analytics <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20449/20277'>[PDF]</a>"
+      - title: "Review on Common Techniques for Urban Environment Video Analytics (VIDEO) <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20449/20277'>[PDF]</a>"
         speakers: "Henry O. Velesaca,Patricia L. Suárez,Angel Sappa,Dario Carpio,Rafael Rivadeneira,Angel Sanchez"
         note: 11:00 - 11:15
       - title: "Detecção Inteligente de Falhas em Pavimentações Asfálticas com Redes Neurais Convolucionais Regionais <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20450/20278'>[PDF]</a>"
