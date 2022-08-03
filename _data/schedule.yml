@@ -13,13 +13,13 @@
     title: "Technical Session 1 - Logistics / Sala: 202"
     type: "presentation"
     events: 
-      - title: "Contribuições na logística de entrega urbana expressa de última milha usando grandes instâncias reais de cidades brasileiras (VIDEO) <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20440/20268'>[PDF]</a>"
+      - title: "Contribuições na logística de entrega urbana expressa de última milha usando grandes instâncias reais de cidades brasileiras <a href='https://www.youtube.com/watch?v=q_74C83zZD8'>(VIDEO)</a> <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20440/20268'>[PDF]</a>"
         speakers: "Thailsson Clementino,Rosiane de Freitas,Eduardo Uchoa"
         note: 9:30 - 9:45
       - title: "Uma Heurística Híbrida para o Problema de Roteamento de Viaturas Policiais em Grandes Centros Urbanos <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20441/20269'>[PDF]</a>"
         speakers: "Raphael Leardini,Bruno Cunha Sá,Eduardo Canellas,Wagner Santos,Yuri Frota,Daniel de Oliveira,Isabel Rosseti" 
         note: 9:50 - 10:05
-      - title: "Sobre um Segmento de Logística Reversa em Cidades Inteligentes: o Problema da Coleta do Lixo Eletrônico (VIDEO) <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20442/20270'>[PDF]</a>"
+      - title: "Sobre um Segmento de Logística Reversa em Cidades Inteligentes: o Problema da Coleta do Lixo Eletrônico <a href='https://youtu.be/aH4l30g4rmw'>(VIDEO)</a> <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20442/20270'>[PDF]</a>"
         speakers: "Silvana Avila,Luiz Satoru Ochi,Simone de Lima Martins"
         note: 10:10 - 10:25
   - startTime: "10:30"
