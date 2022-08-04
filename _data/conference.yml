@@ -217,19 +217,32 @@ news:
     text: WBCI Program is published on CSBC website
     text_pt: Programação do WBCI é publicada na página do CSBC
     text_es: Programação do WBCI é publicada na página do CSBC
+  - date: 2022-07-31
+    text: CSBC 2022 begins
+    text_pt: Começa o CSBC 2022
+    text_es: CSBC 2022 begins
+  - date: 2022-08-03
+    text: WBCI 2022 begins
+    text_pt: Começa o WBCI 2022
+    text_es: WBCI 2022 begins
 sponsors:
-  - name: CSBC 2022
-    logo_path: ./assets/images/sponsors/csbc2022.jpeg
   - name: SBC
     logo_path: ./assets/images/sponsors/logo-sbc.png
-  - name: IC/UFF
-    logo_path: ./assets/images/sponsors/icuff.jpeg
   - name: CYTED
     logo_path: ./assets/images/sponsors/cyted_logo2.jpg
   - name: TICs4CI
     logo_path: ./assets/images/sponsors/TICs4CI.png
+  - name: Prefeitura de Niterói
+    logo_path: ./assets/images/sponsors/Prefeitura-Logo.png
+organizers:
+  - name: IC/UFF
+    logo_path: ./assets/images/sponsors/icuff.jpeg
   - name: Creating.City
     logo_path: ./assets/images/sponsors/creatingcity.png
+  - name: LabIC-UFF
+    logo_path: ./assets/images/sponsors/labic-final.svg.png
+  - name: CSBC 2022
+    logo_path: ./assets/images/sponsors/csbc2022.jpeg
 social_media:
   facebook_link: https://www.facebook.com/congresso.csbc/
   twitter_link:
