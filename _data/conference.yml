@@ -182,7 +182,7 @@ deadlines:
     text_pt: Contribuições para o Colóquio em Blockchain (final)
     text_es: Contribuições para o Colóquio em Blockchain (final)
     pass_due: False
-  - #date: 2022-7-31
+  - date: 2022-8-03
     #date: 2022
     text: Workshop (31/jul to 05/aug - CSBC 2022)
     text_pt: Workshop (31/07 a 05/08 - CSBC 2022)
