@@ -14,13 +14,13 @@
     type: "presentation"
     events: 
       - title: "Contribuições na logística de entrega urbana expressa de última milha usando grandes instâncias reais de cidades brasileiras <a href='https://www.youtube.com/watch?v=q_74C83zZD8'>(VIDEO)</a> <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20440/20268'>[PDF]</a>"
-        speakers: "Thailsson Clementino,Rosiane de Freitas,Eduardo Uchoa"
+        speakers: "<b>Thailsson Clementino</b>,Rosiane de Freitas,Eduardo Uchoa"
         note: 9:30 - 9:45 <img width="100%" src="./assets/images/wbci2022-fotos/01-sessao1.jpg"/>
       - title: "Uma Heurística Híbrida para o Problema de Roteamento de Viaturas Policiais em Grandes Centros Urbanos <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20441/20269'>[PDF]</a>"
-        speakers: "Raphael Leardini,Bruno Cunha Sá,Eduardo Canellas,Wagner Santos,Yuri Frota,Daniel de Oliveira,Isabel Rosseti" 
+        speakers: "Raphael Leardini,Bruno Cunha Sá,Eduardo Canellas,Wagner Santos,Yuri Frota,<b>Daniel de Oliveira</b>,Isabel Rosseti" 
         note: 9:50 - 10:05 <img width="100%" src="./assets/images/wbci2022-fotos/02-sessao1.jpg"/>
       - title: "Sobre um Segmento de Logística Reversa em Cidades Inteligentes: o Problema da Coleta do Lixo Eletrônico <a href='https://youtu.be/aH4l30g4rmw'>(VIDEO)</a> <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20442/20270'>[PDF]</a>"
-        speakers: "Silvana Avila,Luiz Satoru Ochi,Simone de Lima Martins"
+        speakers: "<b>Silvana Avila</b>,Luiz Satoru Ochi,Simone de Lima Martins"
         note: 10:10 - 10:25 <img width="100%" src="./assets/images/wbci2022-fotos/03-0-sessao1.jpg"/>
   - startTime: "10:30"
     endTime: "11:00"
@@ -32,13 +32,13 @@
     type: "presentation"
     events: 
       - title: "Uma Ferramenta de Visualização de Dados Georreferenciados e o Turismo Inteligente como Estudo de Caso <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20443/20271'>[PDF]</a>"
-        speakers: "Anderson de Menezes,Alexandre Plastino,Antonio Rocha,Verônica Mayer"
+        speakers: "<b>Anderson de Menezes</b>,Alexandre Plastino,Antonio Rocha,Verônica Mayer"
         note: 11:00 - 11:15 <img width="100%" src="./assets/images/wbci2022-fotos/04-sessao2.jpg"/>
       - title: "Desafios de governança de sistemas de informações aplicados a centros de controle de cidades inteligentes <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20444/20272'>[PDF]</a>"
-        speakers: "Michele Lima dos Santos Puschi,Alessandro Santiago Santos,Anderson Silva" 
+        speakers: "<b>Michele Lima dos Santos Puschi</b>,Alessandro Santiago Santos,Anderson Silva" 
         note: 11:20 - 11:35 <img width="100%" src="./assets/images/wbci2022-fotos/05-sessao2.jpg"/>
       - title: "Um modelo de programação matemática para o problema Weighted Minimum Broadcast Time <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20445/20273'>[PDF]</a>"
-        speakers: "Alfredo Lima,Luiz Satoru Ochi,Bruno Nogueira,Rian Pinheiro"
+        speakers: "<b>Alfredo Lima</b>,Luiz Satoru Ochi,Bruno Nogueira,Rian Pinheiro"
         note: 11:40 - 11:55 <img width="100%" src="./assets/images/wbci2022-fotos/06-sessao2.jpg"/>
   - startTime: "12:00"
     endTime: "12:30"
@@ -46,10 +46,10 @@
     type: "presentation"
     events: 
       - title: "Intelligent Road Intersections: A Case for Digital Twins <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20453/20281'>[PDF]</a>"
-        speakers: "Víctor García Martínez,Moises Ribeiro,Divanilson Campelo"
+        speakers: "<b>Víctor García Martínez</b>,Moises Ribeiro,Divanilson Campelo"
         note: 12:00 - 12:10 <img width="100%" src="./assets/images/wbci2022-fotos/short-01.jpg"/>
       - title: "Segmento de Logística Reversa e Transportes no Contexto de Cidades e Regiões Inteligentes: Literatura e Proposta <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20454/20282'>[PDF]</a>"
-        speakers: "Luciano Plouvier,Luiz Satoru Ochi"
+        speakers: "<b>Luciano Plouvier</b>,Luiz Satoru Ochi"
         note: 12:15 - 12:25 <img width="100%" src="./assets/images/wbci2022-fotos/short-02.jpg"/>
   - startTime: "12:30"
     endTime: "14:00"
@@ -138,13 +138,13 @@
     type: "presentation"
     events: 
       - title: "Um algoritmo eficiente para um problema multiobjetivo de roteamento em rede de VANTs <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20446/20274'>[PDF]</a>"
-        speakers: "Elias Marques Junior,Vitor Nazário Coelho,Igor Machado Coelho,Bruno Nazário Coelho,Luiz Satoru Ochi"
+        speakers: "<b>Elias Marques Junior</b>,Vitor Nazário Coelho,Igor Machado Coelho,Bruno Nazário Coelho,Luiz Satoru Ochi"
         note: 9:00 - 9:15 <img width="100%" src="./assets/images/wbci2022-fotos/07-sessao3.jpg"/>
       - title: "Algoritmo VNS para o Problema de Roteamento Híbrido com Veículo-Drone para Serviço de Entrega e Coleta <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20447/20275'>[PDF]</a>"
-        speakers: "Anderson Zudio,Luiz Satoru Ochi,Igor Machado Coelho"
+        speakers: "<b>Anderson Zudio</b>,Luiz Satoru Ochi,Igor Machado Coelho"
         note: 9:20 - 9:35 <img width="100%" src="./assets/images/wbci2022-fotos/08-sessao3.jpg"/>
       - title: "Veículos Aéreos Não Tripulados para a Vigilância de Áreas Urbanas em Cidades Inteligentes (VIDEO) <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20448/20276'>[PDF]</a>"
-        speakers: "Mathias Menezes,Ricardo Bernardo,Erick Moreira,Paulo Fernando Ferreira Rosa,Hebert Azevedo Sa"
+        speakers: "<b>Mathias Menezes</b>,Ricardo Bernardo,Erick Moreira,Paulo Fernando Ferreira Rosa,Hebert Azevedo Sa"
         note: 9:40 - 9:55 <img width="100%" src="./assets/images/wbci2022-fotos/09-sessao3.jpg"/>
   - startTime: "10:00"
     endTime: "10:30"
@@ -152,10 +152,10 @@
     type: "presentation"
     events: 
       - title: "Plataforma móvel Robótica-UV para desinfecção de ambientes: uma solução no combate à COVID-19 e outros agentes patogênicos <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20452/20280'>[PDF]</a>"
-        speakers: "Fabio Suim Chagas, Erick Bezerra de Carvalho, Jose L. O. Schramm, Gabriel M. Lima, Emanuel Mendes Soares, Onias Castelo Branco Silveira, Clarisse da Costa Rufino, Viviane Silva Souza Freitas, Joao Guilherme Oliveira Carvalho de Melo, Jauvane Cavalcante de Oliveira, Carlos Nelson Elias, Paulo Fernando Ferreia Rosa"
+        speakers: "<b>Fabio Suim Chagas</b>, Erick Bezerra de Carvalho, Jose L. O. Schramm, Gabriel M. Lima, Emanuel Mendes Soares, Onias Castelo Branco Silveira, Clarisse da Costa Rufino, Viviane Silva Souza Freitas, Joao Guilherme Oliveira Carvalho de Melo, Jauvane Cavalcante de Oliveira, Carlos Nelson Elias, Paulo Fernando Ferreia Rosa"
         note: 10:00 - 10:10 <img width="100%" src="./assets/images/wbci2022-fotos/short-03.jpg"/>
       - title: "Aplicação de mini VANTs em Modelos 3D em escala real para preservação cultural de construções históricas  <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20455/20283'>[PDF]</a>"
-        speakers: "Thiago Baldivieso,Alexandre Boente,Taise Grazielle Batista,Paulo Fernando Ferreira Rosa"
+        speakers: "<b>Thiago Baldivieso</b>,Alexandre Boente,Taise Grazielle Batista,Paulo Fernando Ferreira Rosa"
         note: 10:15 - 10:25 <img width="100%" src="./assets/images/wbci2022-fotos/short-04.jpg"/>
   - startTime: "10:30"
     endTime: "11:00"
@@ -167,13 +167,13 @@
     type: "presentation"
     events: 
       - title: "Review on Common Techniques for Urban Environment Video Analytics <a href='https://youtu.be/gl-ai7we3IU'>(VIDEO)</a> <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20449/20277'>[PDF]</a>"
-        speakers: "Henry O. Velesaca,Patricia L. Suárez,Angel Sappa,Dario Carpio,Rafael Rivadeneira,Angel Sanchez"
+        speakers: "Henry O. Velesaca,Patricia L. Suárez,<b>Angel Sappa</b>,Dario Carpio,Rafael Rivadeneira,Angel Sanchez"
         note: 11:00 - 11:15 <img width="100%" src="./assets/images/wbci2022-fotos/10-sessao4.jpg"/>
       - title: "Detecção Inteligente de Falhas em Pavimentações Asfálticas com Redes Neurais Convolucionais Regionais <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20450/20278'>[PDF]</a>"
-        speakers: "Rafael Barbosa,Elloá B. Guedes,Carlos Mauricio Figueiredo" 
+        speakers: "Rafael Barbosa,<b>Elloá B. Guedes</b>,Carlos Mauricio Figueiredo" 
         note: 11:20 - 11:35 <img width="100%" src="./assets/images/wbci2022-fotos/11-sessao4.jpg"/>
       - title: "Um Estudo de Caso da Detecção do Uso de Máscaras Faciais com Redes Neurais Convolucionais Regionais <a href='https://sol.sbc.org.br/index.php/wbci/article/view/20451/20279'>[PDF]</a>"
-        speakers: "Diego Lucena,Elloá B. Guedes,Carlos Mauricio Figueiredo"
+        speakers: "Diego Lucena,<b>Elloá B. Guedes</b>,Carlos Mauricio Figueiredo"
         note: 11:40 - 11:55 <img width="100%" src="./assets/images/wbci2022-fotos/12-sessao4.jpg"/>
   - startTime: "12:00"
     endTime: "12:30"
