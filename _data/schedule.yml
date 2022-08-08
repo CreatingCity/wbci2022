@@ -208,9 +208,9 @@
         speakers: 	Gislainy Crisostomo Velasco (UFG), Sergio T. Carvalho (UFG)
       - title: Uma arquitetura baseada em blockchain para gerenciamento de proveniência de dados na Internet das Coisas	<a href='./assets/presentations/blockchain/slides03.pdf'>[Slides PDF]</a>
         speakers: Marcos Alves Vieira (UFG), Sérgio Teixeira de Carvalho (UFG)
-      - title: Blockchain e Internet das Coisas aplicados ao processo de fermentação de cacau gourmet	(video)
+      - title: Blockchain e Internet das Coisas aplicados ao processo de fermentação de cacau gourmet	<a href="https://youtu.be/ctRFmqLfiWQ">(video)</a>
         speakers: Jauberth Weyll Abijaude (UFBA/UESC), Levy Santiago (UFBA), Péricles de Lima Sobreira (UQO - Université du Québec en Outaouais), Fabíola Greve (UFBA)
-      - title: "ChainID e Gifflair: Dois artefatos tecnológicos para o avanço da infraestrutura em blockchain <a href='./assets/presentations/blockchain/slides05.pdf'>[Slides PDF]</a>"
+      - title: "ChainID e Gifflair: Dois artefatos tecnológicos para o avanço da infraestrutura em blockchain <a href='./assets/presentations/blockchain/slides05.pdf'>[Slides PDF]</a> <a href='https://youtu.be/wegmF5oz7n4'>(video Gifflar)</a>"
         speakers: 	Silvio Queiroz (IC/UFBA), Levy Santiago (IC/UFBA), Jauberth Abijaude (UESC), Fabíola Greve (IC/UFBA)
       - title: "Sessão Técnica 2: Redes e Infraestrutura / Chair: Allan Edgard Freitas"
         note: 14:30 - 14:55
@@ -218,9 +218,9 @@
         speakers: Alex Borges Vieira (UFJF), Glauber Dias Gonçalves (UFPI), José Augusto Nacif (UFV), Heder Soares Bernardino (UFJF), Pedro Hércules Dantas (UFPI), Ronan Dutra Mendonça (UFV), Saulo Moraes Villela (UFJF)
       - title: Explorando Modelos de Inteligência Artificial para Aquisição de Conhecimento em Redes Blockchains <a href='./assets/presentations/blockchain/slides07.pdf'>[Slides PDF]</a>
         speakers: Alex Borges Vieira (UFJF), Daniel Muller Rezende (UFJF), Glauber Dias Gonçalves (UFPI), Heder Soares Bernardino (UFJF), Júlia Almeida Valadares (UFJF), Pedro Henrique Oliveira (UFJF), Saulo Moraes Villela (UFJF)
-      - title: Framework de caching D2D seguro baseado em gerenciamento de confiança e blockchain para borda da rede móvel (video)
+      - title: Framework de caching D2D seguro baseado em gerenciamento de confiança e blockchain para borda da rede móvel <a href='https://youtu.be/H5JU8dJ0jNQ'>(video)</a>
         speakers: Acquila Santos Rocha (UFG), Vinicius da Cunha Martins Borges (UFG), Billy Pinheiro (Amachains)
-      - title: Gerenciamento de Recursos de Rede Utilizando as Tecnologias Blockchain e Machine Learning (video)
+      - title: Gerenciamento de Recursos de Rede Utilizando as Tecnologias Blockchain e Machine Learning <a href='https://youtu.be/KGdZ9U4qEsY'>(video)</a>
         speakers: João Paulo de Brito Gonçalves (IFES), Rodolfo da Silva Villaça (UFES), Roberta Lima Gomes (UFES)
       - title: Um Estudo sobre Arquiteturas e Desempenho em Infraestruturas de Blockchain Permissionadas	<a href='./assets/presentations/blockchain/slides10.pdf'>[Slides PDF]</a>
         speakers: Emanuel Ferreira Coutinho (UFC), Alan Nascimento Gomes (UFC)
@@ -236,9 +236,9 @@
         speakers: Daniel Arena Toledo (IC/UFF), Bruno Lopes (IC/UFF), Igor Machado Coelho (IC/UFF)
       - title: "Sessão Técnica 4: Aplicações Corporativas em Blockchain / Chair: Fabíola Greve"
         note: 15:20 - 15:45
-      - title: "Be.Chain: Metodologia para construção de aplicações baseadas em tecnologia blockchain na área de gestão de operações (video)"
+      - title: "Be.Chain: Metodologia para construção de aplicações baseadas em tecnologia blockchain na área de gestão de operações <a href='https://youtu.be/4ajkob7vzoU'>(video)</a>"
         speakers: "Dr. Alfredo Colenci Neto (USP)"
-      - title: Blockchain de Rastreabilidade de Créditos Educacionais (video)
+      - title: Blockchain de Rastreabilidade de Créditos Educacionais <a href='https://youtu.be/RPW31CZQuHM'>(video)</a>
         speakers: Jean Everson Martina (UFSC)
       - title: Pesquisa e Desenvolvimento em Blockchain no Grupo de Redes e Comunicação Multimídia da Universidade Federal do Pará <a href='./assets/presentations/blockchain/slides17.pdf'>[Slides PDF]</a>
         speakers: Alan Tony Souza Veloso (GERCOM-UFPA), Antônio Jorge Gomes Abelém (GERCOM-UFPA), Billy Anderson Pinheiro (Amazônia Blockchain Solutions), Murilo Cruz da Silva (GERCOM-UFPA)
