@@ -6,17 +6,22 @@ lang: en
 
 See the <a href="https://sol.sbc.org.br/index.php/wbci">WBCI Proceedings</a>
 
-See the for <a href="https://creating.city/wbci2022/blockchain.html">Colóquios de Blockchain</a> program.
+See the <a href="https://creating.city/wbci2022/program.html">For Full Program</a>
 
 <div class="row">
 
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 offset-lg-1 col-xl-10 offset-xl-1">
 
-        {% for day in site.data.schedule %}
+        {% assign valid_days = site.data.schedule | where:'date', '2022-08-04' %}
+
+        {% for day in valid_days %}
         <div>
             <h4 class="schedule-table-heading">{{ day.dateReadable }} - Day {{ forloop.index }}</h4>
             <table class="table table-bordered table-striped table-hover table-responsive table-sm">
-                {% for timeslot in day.timeslots %}
+
+                {% assign valid_timeslots = day.timeslots | where:'title', 'Special Session: Colóquio em Blockchain e Web Descentralizada / Sala: 202' %}
+
+                {% for timeslot in valid_timeslots %}
                 <thead>
                     <tr>
                         <th class="bg-info text-center">
